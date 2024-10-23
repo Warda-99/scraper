@@ -1,5 +1,6 @@
 import time
 import json
+import validators
 
 from selenium import webdriver
 from selenium.webdriver import Chrome
@@ -67,6 +68,11 @@ def fetch_page(url):
 
 # Funkcja wyodrębniająca zawartość z wybranych tagów HTML na danej stronie
 def extract_tags(url):
+    # Walidacja URL
+    if not validators.url(url):
+        print('zły adres URL')
+        return []
+
     page_content = fetch_page(url)                              # Pobranie kodu HTML
     soup = BeautifulSoup(page_content, 'html.parser')   # Parsowanie strony za pomocą BeautifulSoup
 

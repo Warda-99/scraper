@@ -558,83 +558,179 @@
             },
             {
                 "tag": "p",
-                "content": "Smart zegarki - użyteczne, ale niezbyt piękne i raczej \"jednorazowe\". Klasyczne zegarki - piękne, zachwycające konstrukcją, ale oferujące o wiele mniej funkcji. Czy da się połączyć jedno i drugie, i to w sposób, który sprawi, że i zachwycimy się, i zapomnimy, gdzie jest ładowarka? Tak, jak najbardziej."
+                "content": "Czy da się sprawić, że Apple Home będzie lepszy, niż zaplanował to sobie Apple? Polska firma pokazała mi, że jak najbardziej jest to możliwe."
+            },
+            {
+                "tag": "strong",
+                "content": "Czy da się sprawić, że Apple Home będzie lepszy, niż zaplanował to sobie Apple? Polska firma pokazała mi, że jak najbardziej jest to możliwe."
             },
             {
                 "tag": "p",
-                "content": "I to \"tak\" należy wypowiadać oczywiście ze szwajcarskim akcentem, bo jeśli chodzi o najlepsze klasyczne zegarki, to raczej nikt nie ma wątpliwości skąd pochodzą. Natomiast sprzęty \"smart\" raczej z tym krajem się nie kojarzą, chociaż..."
+                "content": "Udało mi się też w praktyce przekonać, jak wygląda system inteligentnego domu, który został stworzony przez osoby mające od lat do czynienia z rozwiązaniami tego typu i które po prostu uznały, że to, co pojawiło się do tej pory na rynku, nie jest jeszcze wystarczająco dobre."
+            },
+            {
+                "tag": "p",
+                "content": "Aktualizacja (1.07.2024):LuON wprowadził dziś zupełnie nowy system symulacji obecności, będący w stanie wiarygodnie imitować naszą obecność nawet wtedy, kiedy nie ma nas w domu. Rozwiązanie przez 7 dni uczy się tego, w jaki sposób korzystamy każdego dnia z oświetlenia - np. zawsze wieczorem włączamy lampkę do czytania i gasimy światło w kuchni - po czym jest w stanie odtwarzać nasze zachowania tak, żeby wyglądało to w pełni naturalnie, z uwzględnieniem konkretnych pór dnia i dni tygodnia. Przykładowo uruchomienie symulacji obecności o określonej godzinie nie uruchomi zapisanej symulacji \"od początku\", a od schematu utworzonego właśnie dla danego dnia i godziny."
+            },
+            {
+                "tag": "strong",
+                "content": "Aktualizacja (1.07.2024):"
+            },
+            {
+                "tag": "p",
+                "content": "Nowy system symulacji obecności jest dostępny dla wszystkich użytkowników centrali LuBase i żarówek LuBulb, wymagając jedynie aktualizacji oprogramowania i włączenia historii aktywności. Jeśli mieliśmy ją już włączoną i mamy zebranych 7 dni historii - system będzie od razu gotowy do działania. W przeciwnym razie musimy po prostu przez 7 dni korzystać z oświetlenia tak, jak korzystamy na co dzień i dopiero po tym czasie będziemy mieć dostęp do nowej funkcji."
             },
             {
                 "tag": "h2",
-                "content": "... w tym momencie na scenę wchodzi Tissot T-Touch Connect Sport"
+                "content": "Żeby się o tym przekonać, w moim domu wylądował sprzęt od LuON."
             },
             {
                 "tag": "p",
-                "content": "Czyli zaprojektowany przez markę Tissot zegarek, który dotarł do mnie jakiś czas temu i który na pierwszy rzut oka wygląda jak absolutnie klasyczny czasomierz z wysokiej półki. Tytanowa, precyzyjnie wykonana koperta, ceramiczny bezel, fizyczne wskazówki i fizyczne przyciski, a także szafirowe szkło chroniące tarczę - wszystko tutaj aż krzyczy \"jestem zegarkiem, nie komputerem na nadgarstek\". Oczywiście o tym, żeby tarcza zegarka nagle znikała, żeby zaoszczędzić energię - jak ma to miejsce w większości smart zegarków - nie ma nawet mowy. Wszystko jest tak fizyczne, jak tylko się da, a i nawet w nocy nie będzie problemów z odczytaniem godziny, bo wskazówki i tarczę pokryto warstwą fluorescencyjną (rozwiązanie Super-LimiNova)."
+                "content": "W tym, przede wszystkim, wyjątkowa centrala LuBase. Owszem, od strony wizualnej może ona przypominać inne centrale, w tym np. trochę większe Apple TV, ale w praktyce jest to sprzęt tak ciekawy, że zgłoszenie go do certyfikacji spowodowało zaskoczenie u samego Apple’a. Dlaczego? Bo takiego sprzętu nawet w Cupertino jeszcze nie widzieli."
             },
             {
                 "tag": "p",
-                "content": "Wyjmujemy więc z paczki coś, co prezentuje się jako zegarek, który bez problemów będzie pasował i do eleganckiej, i bardziej codziennej garderoby i dość szybko okazuje się, że w tej klasycznej formie udało się zamknąć zaskakująco dużo elementów \"smart\", dzięki czemu możemy zapomnieć o potrzebie wymiany naszego zegarka na coś \"bardziej nowoczesnego\". Naciskamy bowiem jeden z dwóch bocznych przycisków, wskazówki zaczynają krótki taniec, a pusta przestrzeń pod nimi okazuje się zaskakująco przyjemnym dla oka... wyświetlaczem AMOLED."
+                "content": "Co sprawia, że LuBase jest tak wyjątkowa, że nawet Apple początkowo było zaskoczone? Przede wszystkim to jedyna na rynku centrala, która komunikuje się bezpośrednio z aplikacją wyłącznie za pomocą Apple HomeKit, a przy tym nie korzysta z żadnych serwerów zewnętrznych. Dzięki temu nie wymaga logowania ani podawania żadnych danych, a jednocześnie zapewnia pełny dostęp do wszystkich funkcji systemu luonOS. Wystarczy podłączyć LuBase, dodać ją do naszego inteligentnego domu Apple za pomocą aplikacji LuHome, i gotowe – integracja z Apple Home jest zakończona."
             },
             {
                 "tag": "p",
-                "content": "Wtedy też zresztą okazuje się, że zegarkiem można sterować nie tylko z wykorzystaniem bocznych przycisków, ale też przesuwając palcem po ekranie w górę i w dół, a także na boki. Co ciekawe, mimo niewielkich wymiarów samego panelu, jest on nie tylko bardzo czytelny, ale też łatwy w obsłudze, po tym jak pojmiemy jego stosunkowo prostą filozofię nawigacji."
+                "content": "Aplikacja LuHome, w pełni zgodna z HomeKit, jest dostępna na iPadzie, iPhonie oraz komputerach Mac z procesorem M1 i nowszymi. Bez dodatkowej konfiguracji, w mgnieniu oka importuje istotne informacje o wszystkich naszych dotychczasowych urządzeniach kompatybilnych z Apple Home, zachowując pełne poszanowanie naszej prywatności i oferując wszystkie możliwości systemu luonOS."
             },
             {
                 "tag": "p",
-                "content": "Ach, gdyby ktoś pytał, czy Tissot T-Touch Connect Sport kryje w swojej obudowie jeszcze jakieś niespodzianki, to odpowiedź jest twierdząca. Ten zegarek wykorzystuje bowiem do ładowania energię słoneczną i w trybie nie-smart może działać... bez końca. Dopiero po jego połączeniu ze smartfonem i utrzymywaniu tego połączenia czas pracy spada do imponujących 6 miesięcy, natomiast jeśli będziemy wykorzystywać pełnię jego możliwości, ładowarki będziemy szukać co kwartał. Lepiej zapiszmy sobie, gdzie ją schowaliśmy."
+                "content": "W tym miejscu można zapytać: po co nam kolejna aplikacja HomeKit, która teoretycznie dubluje funkcje aplikacji Dom od Apple? Czy centrala LuBase oferuje coś, czego Apple Home nie ma? Zadawałem sobie to pytanie jakiś czas temu, ale teraz znam odpowiedź – jest prosta i brzmi:"
             },
             {
                 "tag": "h2",
-                "content": "Co tak naprawdę potrafi Tissot T-Touch Connect Sport?"
+                "content": "Będziesz chciał kupić LuBase, nawet jeśli nie planujesz kupić innych sprzętów od LuON."
             },
             {
                 "tag": "p",
-                "content": "Pokazywać czas i to w nieskończoność i bez ładowania - spróbujcie to samo napisać o smart zegarkach."
+                "content": "Zaznaczę może od razu - tak, LuON oprócz bramki LuBase ma w ofercie jeszcze inne produkty, takie jak np. żarówki, ale o tym za chwilę. Intrygujące w LuBase jest to, że nawet jeśli niekoniecznie chcemy wchodzić w ekosystem LuON, to dokupienie samej bramki do Apple Home wcale nie jest takim złym pomysłem. Wręcz przeciwnie."
             },
             {
                 "tag": "p",
-                "content": "Z drugiej strony - Tissot T-Touch Connect Sport oferuje od strony \"smart\" wszystko to, czego najczęściej poszukujemy w smart zegarkach. Zaczynając od tak naprawdę najczęściej wykorzystywanej funkcji, czyli po prostu powiadomień. Dostajemy wiadomość, zegarek bardzo subtelnie, ale w sposób, który nie zostawia najmniejszych wątpliwości w kwestii tego, co się właśnie stało, wibruje, przestawia wskazówki i wyświetla na ekranie podgląd treści. Zerkamy, czy to coś ważnego, wskazówki wracają na swoje miejsce i już znowu mamy klasyczny zegarek."
-            },
-            {
-                "tag": "p",
-                "content": "Przyznaję, że o ile od lat nie nosiłem już klasycznego zegarka na ręce, o tyle takie hybrydowe podejście było bardzo odświeżające. Przy każdorazowym podniesieniu ręki z zegarkiem nie musiałem patrzeć się na ekran, nerwowo wyszukując ikonki oznaczającej całą kolejkę zaległych powiadomień i nie łapałem się na tym, że miałem sprawdzić godzinę, a nie sprawdziłem jej i zamiast tego klikam już coś w n-tej aplikacji na zegarku. Czuję wibrację na ręce - podnoszę zegarek i sprawdzam, czy to coś istotnego. Jeśli nie, opuszczam rękę i żyję dalej. Jeśli tak - sięgam po telefon. Jeśli chcę tylko sprawdzić godzinę, to wiem, że podnosząc zegarek, skupię się na wskazówkach i na tym się skończy. Może tak właśnie zawsze powinno być z zegarkami."
-            },
-            {
-                "tag": "p",
-                "content": "Żeby było jeszcze lepiej, na tym hybrydowość zegarka wcale się nie kończy. Jedno kliknięcie i gest palcem i zegarek, który na początku wyglądał tak klasycznie, może się zmienić w... zegarek sportowy:"
-            },
-            {
-                "tag": "p",
-                "content": "Do wyboru są wprawdzie tylko cztery tryby aktywności, ale w zupełności to wystarczy - jest bieganie, jest trening ogólny, jest jazda na rowerze i są piesze wędrówki. W każdym z tych przypadków mamy do dyspozycji ciągły pomiar tętna, natomiast dla aktywności na dworze - również zapis sprawnie działającego systemu lokalizacji."
-            },
-            {
-                "tag": "p",
-                "content": "Nie trzeba więc po powrocie do domu zakładać na nadgarstek drugiego zegarka albo biegać \"od domu do tamtego skrzyżowania\". Na ekranie w trakcie aktywności znajdziemy wszystkie niezbędne informacje, a po zakończeniu treningu wszystko zsynchronizuje się z aplikacją T-Connect i dalej np. z Apple Zdrowie.  Zresztą ta dalsza synchronizacja nie jest niezbędna - T-Connect jest zaskakująco rozbudowany, jeśli chodzi o analizę aktywności i znajdziemy tutaj nie tylko np. czas i dystans, ale też o średnim tempie, tętnie, liczbie kroków, szacowanej liczbie kalorii, wysokości, czy podsumowanie stref tętna. Jak na zegarek, który wygląda jak \"zwykły zegarek\" - imponujące."
+                "content": "LuBase uzupełnia bowiem szereg braków w systemie od Apple’a, na które narzeka prawdopodobnie spore grono użytkowników tego rozwiązania, a którym Apple mimo wszystko nie udostępnił odpowiednich narzędzi. Mało tego - LuBase rozwiązuje też szereg problemów, które mogą generować… inne bramki podłączone do Apple Home, a także wprowadza kilka opcji z kategorii „dlaczego nikt wcześniej o tym nie pomyślał”."
             },
             {
                 "tag": "h2",
-                "content": "To jeszcze nie wszystko."
+                "content": "Co takiego potrafi LuBase?"
             },
             {
                 "tag": "p",
-                "content": "W ramach oprogramowania zegarka Tissot T-Touch Connect Sport udało się bowiem zmieścić chociażby  opcję ustawiania dowolnych alarmów (bardzo skuteczne budzenie, polecam), stoperów, zegarów dla innych stref czasowych czy np. minutników, z pamięcią okrążeń i zliczonego czasu."
+                "content": "Chociażby tworzyć pełną kopię zapasową wszystkich ustawień i przechowywać ją lokalnie - bez strachu o awarię chmury i o ewentualny wyciek danych. Wszystkie automatycznie - albo ręcznie - tworzone kopie zapasowe pozostają na wbudowanym w bazę pendrivie, którego w razie potrzeby można przetransferować do nowej centrali. Do tego mając pewność, że wszystkie ustawienia przeniosą się automatycznie i do Apple Home, co w przypadku innych „bramek” i ich kopii zapasowych wcale nie jest takie oczywiste. Kto raz musiał dodawać od nowa kilkanaście żarówek do Domu od Apple, ten wie, gdzie leży różnica."
             },
             {
                 "tag": "p",
-                "content": "Co szczególnie miłe, część tych ustawień możemy realizować z poziomu aplikacji - podobnie zresztą z jej poziomu możemy też np. komfortowo sprawdzić pokonywaną przez nas codziennie liczbę kroków czy statystyki dla tego parametru na przestrzeni ostatnich tygodni czy miesięcy."
+                "content": "Możliwość tworzenia kopii zapasowych to jednak przyjemna opcja, którą prawdopodobnie docenimy dopiero wtedy, kiedy… raz stracimy już wszystkie dane. Dużo ciekawsza jest chociażby udana próba naprawiania tego, o czym Apple zapomniał i udaje, że nie pamięta, czyli powiadomienia."
+            },
+            {
+                "tag": "p",
+                "content": "W przypadku Apple Home powiadomień nie mamy właściwie w ogóle. Coś się dzieje, czujnik coś wykryje albo aktywowana zostaje jakaś automatyzacja i w sumie nic na ten temat nie wiemy. Z LuBase ten problem nie występuje - możemy stworzyć dowolne powiadomienie, nadać mu odpowiedni priorytet i wybrać, na których urządzeniach ma być wyświetlone. Następnie takie powiadomienie możemy dodać do scen Apple Home i włączyć w dowolnej automatyzacji. Dzięki temu inne urządzenia zgodne z Apple Home, które już posiadamy w domu, będą mogły korzystać z powiadomień, zyskując tym samym nowe możliwości."
+            },
+            {
+                "tag": "p",
+                "content": "Nic nie stało mi na przeszkodzie, żeby stworzyć automatyzację, w ramach której dostałbym powiadomienie, że - podczas gdy nikogo z domowników nie ma w domu - czujnik ruchu w biurze wykrył czyjąś obecność. Tak samo ustawiłem sobie podobne powiadomienia dla czujnika ruchu przy furtce do domu - teraz od razu wiem, że ktoś wchodzi na posesję, natomiast wcześniej musiałem czekać aż ktoś zadzwonił do drzwi, bo Apple Home nie oferował mi opcji powiadamiania w razie samego przechodzenia obok czujnika."
+            },
+            {
+                "tag": "p",
+                "content": "I tak można… dla właściwie wszystkiego. Dowolne czujniki czy sprzęty albo kombinacje jednego i drugiego mogą przesyłać nam odpowiednie powiadomienia i jednocześnie mogą trafiać tylko na wybrane urządzenia. Nie chcemy, żeby wszyscy wiedzieli, że ktoś wrócił do domu? Żaden problem, wystarczy wybrać odpowiednie sprzęty dla danego powiadomienia."
+            },
+            {
+                "tag": "p",
+                "content": "Przyznaję się, że podczas testów LuBase i LuonOS zdecydowaną większość czasu zajęło mi właśnie tworzenie powiadomień, których do tej pory niesamowicie mi brakowało, a tutaj działają po prostu świetnie - od etapu konfiguracji i jej szczegółowości oraz prostoty, aż po samo późniejsze działanie na wybranych urządzeniach. Zresztą to jest też powód, przez który prawdopodobnie po odesłaniu egzemplarza testowego… zamówię swój prywatny."
             },
             {
                 "tag": "h3",
-                "content": "Ale najpiękniejsze w zegarku Tissot T-Touch Connect Sport jest jeszcze co innego."
+                "content": "To jednak wciąż nie wszystkie sposoby, które sprawią, że Apple Home może być lepszy."
             },
             {
                 "tag": "p",
-                "content": "Czyli to, że ten zegarek... nigdy się nie zestarzeje, a przynajmniej nie w taki sposób, w jaki często ekspresowo robią to smart zegarki. Nie pojawi się nagle jego nowsza wersja, która kompletnie zmienia zasady gry i sprawia, że poprzednia generacja wydaje się nieatrakcyjna. Akumulator nie przestanie nagle działać 15 minut, a tarcza zegara nigdy nie przestanie być idealna od strony wizualnej."
+                "content": "LuBase jest chociażby jednym na świecie sposobem na to, żeby tworzyć w ramach Apple Home skomplikowane sceny z wykorzystaniem zmiennych, co najbardziej zaawansowanym użytkownikom daje kolejny argument za tym, żeby kupić centralę nawet bez dodatkowych akcesoriów."
             },
             {
                 "tag": "p",
-                "content": "Kiedy tylko na rynku pojawiły się smart zegarki, od razu też pojawiły się dowcipy o tym, że czegoś takiego raczej - w przeciwieństwie do klasycznych zegarków - nie będzie się dało przekazać dzieciom, a potem liczyć, że one przekażą je swoim, więc wydatek był raczej jednorazowy i mało inwestycyjny. Tutaj tego problemu natomiast nie ma - a jednocześnie to wszystko odbywa się bez rezygnacji z najważniejszych i najczęściej wykorzystywanych funkcji smart."
+                "content": "Zresztą listę „poprawek” Apple Home można jeszcze mnożyć. Przykładowo w aplikcji LuHome znajdziemy całą galerię scen dla oświetlenia, wliczając w to sceny dynamiczne, statyczne i użytkowe. W tej ostatniej kategorii kryje się chociażby scena migającej kolorowo żarówki czy lampy, którą można wykorzystać jako alarm albo bardzo specyficzna forma powiadomienia."
+            },
+            {
+                "tag": "p",
+                "content": "Tym, co jednak spodobało mi się najbardziej poza powiadomieniami, była funkcja „Snapshot”, czyli „odwrócone” tworzenie np. konfiguracji świetlnej danego pomieszczenia. Zamiast tworzyć scenę od podstaw, ustawiając np. kolory i intensywność świecenia wybranych punktów, możemy najpierw ustawić je w łatwiejszy i od razu widoczny sposób z poziomu aplikacji LuHome albo Apple Dom, a potem kliknąć właśnie Snapshota i w ten sposób zapisać wszystkie istotne parametry, a potem zamienić je na Scenę."
+            },
+            {
+                "tag": "h2",
+                "content": "Skoro więc jest tak dobrze, to po co w ekosystemie LuON fizyczne sprzęty?"
+            },
+            {
+                "tag": "p",
+                "content": "W końcu wszystko jest super, Apple Home jest dzięki rozwiązaniom LuON faktycznie lepszy, można zostać przy samej bramce. Tyle tylko, że nie do końca, bo o ile LuBase sprawia, że Apple Home zmienia się w Apple Home na sterydach, o tyle sprzęty LuON można traktować jako homekitowe akcesoria na sterydach."
+            },
+            {
+                "tag": "p",
+                "content": "Albo inaczej: sprzęty od LuON, w pełni zgodne z Apple Home, potrafią w połączeniu z LuBase po prostu dużo, dużo więcej niż inne urządzenia działające w ekosystemie Apple."
+            },
+            {
+                "tag": "p",
+                "content": "Przykłady? Można znaleźć drobiazgi, które będą fantastycznie użyteczne w codziennym użytkowaniu. Przykładowo dla żarówek LuBulb możemy ustawić tzw. „czas do wyłączenia” - po przytrzymaniu przycisku w aplikacji wyświetlona zostanie lista, która pozwoli nam automatycznie zgasić światło po upływie określonego czasu. Możemy też przypisać takie opóźnione wyłączenie na stałe do takiego urządzenia i zrobiłem coś takiego u siebie w pralni, gdzie wiecznie świeciło się „zapomniane” światło - teraz automatycznie wyłącza się po 5 minutach, czyli wtedy, kiedy mnie już dawno nie ma na miejscu."
+            },
+            {
+                "tag": "p",
+                "content": "Skąd natomiast wiem, że marnowałem prąd i pieniądze na oświetlanie pustego pomieszczenia? Z tego, że w aplikacji LuHome zapisywane - i to przez okres do 5 lat - wszystkie akcje „podejmowane” przez urządzenia, wliczając w to np. to, jak długo świeciło się światło w danym punkcie. I nie, na pewno nie bywałem w pralni po 2 godziny dziennie, musiałbym chyba ręcznie prać wszystkie rzeczy."
+            },
+            {
+                "tag": "p",
+                "content": "Drobiazgowe ustawienia nie kończą się zresztą w tym miejscu. Dla żarówek LuBulb, które dotarły do mnie na testy, mogę ustawić… właściwie wszystko. Wliczając w to zachowanie po utracie i przywróceniu zasilania, a nawet poziom minimalnego i maksymalnego podświetlenia czy prędkość wygaszania i rozświetlania."
+            },
+            {
+                "tag": "p",
+                "content": "Świetnie rozwiązany jest też cały system aktualizacji urządzeń. Pomijając nawet fakt, że możemy wybrać konkretne godziny przeprowadzania aktualizacji oprogramowania, cały proces jest naprawdę dopracowany od początku do końca. Po pierwsze - nie musimy mieć otwartej aplikacji, przesyłanie aktualizacji oprogramowania do poszczególnych sprzętów po kolei jest całkowicie autonomiczne. Po drugie i najważniejsze - całość jest dodatkowo ułatwiona tzw. zabezpieczeniem aktualizacji, tj. urządzenie pobierze aktualizację, ale nie przeprowadzi jej, jeśli jest włączone. Nie ma np. ryzyka, że wszystkie światła w domu zaczną migać jedno po drugim albo po prostu zgasną, bo akurat trzeba wgrać nowe oprogramowanie. Zgasimy światło - wtedy ruszy aktualizacja. Zresztą ta zasada dotyczy wszystkich sprzętów z ekosystemu LuON, nie tylko oświetlenia."
+            },
+            {
+                "tag": "p",
+                "content": "Opcją, z której prawdopodobnie skorzystałbym natomiast w przyszłości jest LuReconfiguration, czyli opcja \"podmiany\" jednego urządzenia na drugie i to w wydaniu \"1:1\". Dzięki niej można przenieść wszystkie usługi i ustawienia między jednym urządzeniem a drugim, co - na bardziej życiowym przykładzie - może oznaczać, że jeśli np. chcemy zamienić jedną żarówkę na drugą, mocniejszą albo po prostu nową, możemy to zrobić kilkoma kliknięciami. Wszystkie ustawienia poprzedniego sprzętu zostaną przetransferowane, a nowy zostanie dodany m.in. do scen, więc nie będziemy musieli godzinami zastanawiać się, gdzie jeszcze dodaliśmy to urządzenie i dlaczego nowe nie działa jak trzeba."
+            },
+            {
+                "tag": "h2",
+                "content": "No właśnie - nie tylko oświetlenie."
+            },
+            {
+                "tag": "p",
+                "content": "W tej chwili miałem możliwość sprawdzić te sprzęty i rozwiązania, które są już w sprzedaży, czyli LuBase i LuBulb. W kolejce na sklepowe półki czekają jednak i kolejne urządzenia, które - podobnie jak poprzednie - zadziałają z Apple Home i pokażą też pełnię możliwości w kombinacji z LuBase."
+            },
+            {
+                "tag": "p",
+                "content": "Sam przykładowo czekam na LuPresence, czyli czujnik obecności, bo jakoś nie wszędzie potrafię nauczyć się gasić światło, a nie zawsze dostępne automatyzacje są wystarczające."
+            },
+            {
+                "tag": "p",
+                "content": "W tym roku do sprzedaży trafi także LuModule Pro, czyli na pierwszy rzut oka „standardowy” moduł dopuszkowy, który po bliższym przyjrzeniu się przestaje być taki standardowy i zaczyna być widoczne, że naprawdę robili go ludzie, którzy smart domem zajmują się od dłuższego czasu. Największą siłą tego sprzętu ma być bez wątpienia uniwersalność, którą inne produkty niespecjalnie mogą się pochwalić. Nie ma tutaj większego znaczenia, czy chcemy podłączyć do niego żaluzje, rolety, światła, rolety, sterowanie furtką czy drzwiami garażowymi, czujniki (np. ruchu), czy nawet zmienić zwykłe domowe przyciski w smart przyciski - to wszystko jest możliwe."
+            },
+            {
+                "tag": "h2",
+                "content": "Ja już swoją decyzję podjąłem."
+            },
+            {
+                "tag": "p",
+                "content": "I wiem, że LuBase, po odesłaniu sztuki testowej, pojawi się u mnie też w wydaniu nie-testowym, a „sklepowym”. Już same powiadomienia dla Apple Home naprawdę zmieniły to, jak mieszka się w moim smart domu, a dalsza zabawa i poziom integracji z Apple Home to też coś, czym trudno mi się nacieszyć. Tak samo z funkcji Snapshot korzystam regularnie, kiedy tylko - z nudów albo przypadkiem - ustawię w danym pomieszczeniu oświetlenie, które nagle wydaje mi się idealne."
+            },
+            {
+                "tag": "p",
+                "content": "Oczywiście nie będę udawał, że wykorzystałem absolutnie wszystkie możliwości LuBase, bo np. zmienne są mi póki co niepotrzebne. Z drugiej strony, niektóre rozwiązania, które wydawały mi się niezbyt potrzebne, z czasem zyskały moje uznanie i trudno mi się będzie bez nich obejść, a że wymagają sprzętów z ekosystemu LuON, pewnie oprócz samej bazy dokupię jeszcze kilka żarówek. Przykładowo do tej pory nie myślałem, że interesuje mnie to, jak szybko gasną i zapalają się żarówki i dopiero po zabawie w tej kwestii z LuBulb, zaczęło mnie strasznie denerwować, że wszystkie żarówki w moim domu robią to w innym tempie."
+            },
+            {
+                "tag": "p",
+                "content": "Coś czuję, że mój smart dom w kilku kwestiach czeka naprawdę znacząca przebudowa."
+            },
+            {
+                "tag": "h2",
+                "content": "Gdzie można kupić sprzęty LuON?"
+            },
+            {
+                "tag": "p",
+                "content": "Oczywiście w oficjalnym sklepieLuON Store, u dystrybutora Allocacoc albo w Komputroniku, Z-Home i sklepie Inteligentny Dom."
+            },
+            {
+                "tag": "p",
+                "content": "Urządzenia tej marki niedługo pojawią się również w sklepach sieci iMad, gdzie zainteresowani będą mogli od razu przetestować je na miejscu na specjalnie przygotowanej wystawce. Pracownicy sklepów będą też odpowiednio przeszkoleni z obsługi systemu luonOS i Apple Home, więc klienci będą mogli liczyć nie tylko na profesjonalną obsługę, ale też i pomoc np. w zakresie doboru odpowiednich sprzętów."
             },
             {
                 "tag": "p",
@@ -879,66 +975,6 @@
             },
             {
                 "tag": "p",
-                "content": "Topowa aplikacja Żappka jest na rynku już od pięciu lat i niejeden raz zaskoczyła swoich użytkowników unikatowymi rozwiązaniami. Tym razem w nowej wersji, użytkownicy Żappki zyskają dostęp do oferty marek obecnych w Grupie Żabka jak: Żabka Jush, Maczfita, Dietly, czy Żabka Nano. Aplikacja ma ulepszony, intuicyjny interfejs i szereg nowych funkcji. Obecnie trwa pierwszy etap udostępnienia aplikacji, a użytkownicy w najbliższych tygodniach cyklicznie będą dostrzegać nowe rozwiązania Żappki. Dotychczas z aplikacji korzystało ponad 10 mln osób."
-            },
-            {
-                "tag": "h2",
-                "content": "Jeszcze bardziej Żappka"
-            },
-            {
-                "tag": "p",
-                "content": "Ulepszona wersja Żappki zawiera m.in. nowe funkcje umożliwiające korzystanie z usług spółek należących do Grupy Żabka."
-            },
-            {
-                "tag": "p",
-                "content": "Rozwój technologii to jeden z filarów długofalowej strategii Grupy Żabka. Dzięki synergii naszych marek w aplikacji Żappka, użytkownicy zyskają lepszy dostęp do naszej pełnej oferty, my z kolei możemy wykorzystać potencjał płynący z całej grupy"
-            },
-            {
-                "tag": "p",
-                "content": "W trakcie prac nad nową aplikacją przeprowadzono kompleksowe badania z udziałem realnych użytkowników oraz osób, które wcześniej nie miały z Żappką styczności. Wśród badanych znalazły się osoby niepełnoletnie, pełnoletnie i należące do grupy 50+. Dzięki temu nowa wersja aplikacji zyskała nowy design oraz funkcje, które sprawią, że korzystanie z niej będzie jeszcze bardziej intuicyjne."
-            },
-            {
-                "tag": "p",
-                "content": "Chcąc pozostawać liderem, wyznaczającym trendy w branży retail, zdecydowaliśmy o wyniesieniu Żappki na wyższy poziom. Spójna architektura nowej aplikacji będzie jeszcze bardziej intuicyjna i przez to przyjazna użytkownikom. Wraz z naszymi partnerami – wewnątrz Grupy Żabka i poza nią, stworzyliśmy ekosystem wspólnych korzyści dla użytkowników, a oni – jeszcze większą dostępność ciekawych ofert. Dziś oddajemy aplikację, która jest efektem wielomiesięcznych prac naszych zespołów, jednak nieustająco będziemy dodawać kolejne funkcje, tak by Żappka stała się towarzyszką naszych klientów podczas całych dni wypełnionych różnorodnymi aktywnościami"
-            },
-            {
-                "tag": "h2",
-                "content": "Ulepszona nawigacja i jeszcze więcej ofert"
-            },
-            {
-                "tag": "p",
-                "content": "Wśród najważniejszych zmian użytkownicy dostrzegą m.in. podział oferty Żabki oraz menu, gdzie znajdą np. produkty Prosto z Pieca. Podział zyskała sekcja Wszystko za żappsy – odtąd widoczna będzie osobno oferta sklepów Żabka oraz spółek należących do Grupy Żabka i partnerów. Nowością są także sekcje dedykowane cateringom dietetycznym oraz sekcja Żabki Jush, umożliwiająca zakupy online z dostawą."
-            },
-            {
-                "tag": "p",
-                "content": "Użytkownicy otrzymali także nowe możliwości w zakresie wykorzystywania żappsów, m.in. na usługi oferowane przez partnerów biznesowych Żabki, wśród których znajdują się między innymi Allegro, Multikino, Lime, czy Traficar. Żappsy czasowo będą mogły być również wymieniane na monety w aplikacji Allegro. Klienci zyskają także nowe opcje płatności przez Google Pay lub Apple Pay."
-            },
-            {
-                "tag": "p",
-                "content": "Uruchomienie nowej aplikacji wspiera kampania marketingowa promująca sposoby wykorzystania żappsów, w której udział wezmą influencerzy: Przemek Pro, Monika Kociołek i Czvjnik."
-            },
-            {
-                "tag": "p",
-                "content": "Nowa Żappka będzie udostępniana użytkownikom etapowo. Informacje o dostępnej aktualizacji dostępne będą w dotychczasowej wersji aplikacji."
-            },
-            {
-                "tag": "h2",
-                "content": "O grupie Żabka"
-            },
-            {
-                "tag": "p",
-                "content": "Grupa Żabka to kompleksowy ekosystem convenience, którego misją jest tworzenie wartości poprzez upraszczanie codziennego życia klientów. Grupa obsługuje rosnącą liczbę konsumentów szukających wygodnych rozwiązań, promując przy tym odpowiedzialne podejście wobec klientów, franczyzobiorców, dostawców oraz szeroko pojętego środowiska, w tym dbałość o zrównoważone korzystanie z produktów i opakowań."
-            },
-            {
-                "tag": "p",
-                "content": "Ekosystem Grupy Żabka obejmuje wiodącą w Polsce sieć sprzedaży detalicznej w formacie convenience liczącą ponad 10 500 sklepów działających na zasadzie franczyzy. Uzupełnia ją sieć bezobsługowych sklepów autonomicznych pod szyldem Żabka Nano, umożliwiających robienie zakupów przez całą dobę w dowolny dzień tygodnia. Grupa dysponuje również zaawansowaną, stale rozwijaną ofertą cyfrową. Należąca do niej marka Maczfit, powstała z myślą o osobach szukających zdrowej i jednocześnie wygodnej diety, dostarcza restauracyjnej jakości gotowe posiłki prosto do domu klienta. Platforma Dietly to z kolei wiodąca porównywarka dostawców cateringu dietetycznego. Działalność w zakresie internetowych zakupów spożywczych Grupa realizuje zaś za pośrednictwem marek Jush! i Delio. Ponadto Grupa Żabka niedawno rozpoczęła działalność na bardzo atrakcyjnym rynku rumuńskim poprzez przejęcie spółki DRIM."
-            },
-            {
-                "tag": "p",
-                "content": "Prężną działalność Spółki w Polsce umożliwia należycie doinwestowana infrastruktura logistyczna, obejmująca osiem centrów dystrybucyjnych, 19 obiektów typu cross-dock oraz sieć magazynów dark store i lokali dark kitchen, stanowiących zaplecze operacyjne oferty cyfrowej Grupy Żabka."
-            },
-            {
-                "tag": "p",
                 "content": "Apple przygotował dla posiadaczy iPhone’ów jedną subskrypcję, by wszystkimi innymi rządzić. Dlaczego opłacam Apple One i co wchodzi w skład tego abonamentu poza chmurą iCloud? Już wyjaśniam."
             },
             {
@@ -1059,86 +1095,6 @@
             },
             {
                 "tag": "p",
-                "content": "Do tej pory, gdy ktoś pytał mnie, jaki smartfon kupić, żeby był odporny na zniszczenia, miał dużą pojemność akumulatora i ciekawy design, odpowiadałem, że mówi o trzech różnych urządzeniach. Teraz mogę powiedzieć, żeby sprawdził Oukitel WP35, bo to urządzenie łączy wszystkie te cechy i ma w sobie jeszcze sporo niespodzianek."
-            },
-            {
-                "tag": "p",
-                "content": "Jeżeli kiedykolwiek interesowaliście się rynkiem pancernych smartfonów, to na pewno zauważyliście, że mają jedną cechę wspólną – wyglądają, jakby ktoś je wyrzeźbił siekierą. Do tego zazwyczaj są ciężkie i duże, co nie ułatwia użytkowania. Te cechy wynikały z chęci zapewnienia przez producentów jak największej wytrzymałości na trudne warunki, w jakich pracują użytkownicy tego typu smartfonów. Mówimy o użytkownikach, którzy telefon zabierają ze sobą na offroad, do pracy na wysokościach, ratownikach, wojsku czy fanach sportów ekstremalnych. Odnoszę wrażenie, że wszyscy pogodzili się już z ograniczeniami w tym obszarze i brakiem alternatyw. Tym milej byłem zaskoczony najnowszym telefonem Oukitel WP35, który jest pancerny, ale nie przypomina urządzenia do wbijania gwoździ. Chociaż awaryjnie może nim być, ale o tym opowiem za chwilę."
-            },
-            {
-                "tag": "p",
-                "content": "Prezentowany model jest smukły, elegancki, nie krzyczy, że jest pancerny, dlatego można go używać zarówno w trakcie ekstremalnych wypraw, jak i na co dzień, bez wzbudzania zainteresowania, np. podczas spotkań biznesowych. Design jest nowoczesny i na pierwszy rzut oka tylko ramki zdradzają, że to nie jest zwykły telefon. Z tyłu mamy przyjemną dla oka i dłoni fakturę, inspirowaną diamentami. Ponadto dostępny jest w trzech nietuzinkowych kolorach: butelkowej zieleni, opalizującym brązie i szarości."
-            },
-            {
-                "tag": "p",
-                "content": "Jego grubość to jedynie 14,9 mm, co w połączeniu z ogromną baterią 11 000 mAh stawia go na podium najcieńszych pancernych telefonów na świecie, oferując jednocześnie ergonomiczny design i wygodny uchwyt."
-            },
-            {
-                "tag": "p",
-                "content": "Co najlepsze, waży tylko 360 g, co jest świetnym wynikiem dla telefonu o tak dużej pojemności baterii. Spełnia również rygorystyczną normę militarną MIL-STD-810H, co oznacza, że telefon jest odporny na upadki na poziomie wojskowym, a to sprawia, że nie boi się praktycznie żadnych zderzeń."
-            },
-            {
-                "tag": "p",
-                "content": "Do tego dochodzą cywilne certyfikaty IP68/IP69K, które gwarantują działanie telefonu nawet po zanurzeniu w wodzie, a także odporność na kurz i piasek. Jeśli lubicie aktywności outdoorowe, docenicie te normy, ponieważ zapewniają, że możecie włożyć smartfon do kieszeni podczas np. przepraw offroad, wejść w błoto i nie martwić się o jego działanie."
-            },
-            {
-                "tag": "p",
-                "content": "Nie tylko hobbyści docenią wytrzymałość tego smartfona. Taka odporność przydaje się również w pracy, np. górnikom, ratownikom medycznym czy górskim, a także osobom pracującym w branży budowlanej i innym, którzy na co dzień funkcjonują w trudnych warunkach. Odpowiadając na specyfikę pracy użytkowników tego typu telefonów, producent zastosował fizyczne przyciski, które działają nawet w rękawicach ochronnych."
-            },
-            {
-                "tag": "p",
-                "content": "A skoro mówimy o trudnych warunkach, doskonale wiemy, że nie zawsze można podłączyć telefon do prądu, więc czas pracy urządzenia jest kluczowy. Oukitel WP35 posiada akumulator o pojemności aż 11 000 mAh, który wytrzymuje kilka dni z dala od ładowarki, bez ograniczania funkcjonalności. W razie potrzeby telefon naładujemy z mocą do 18 W. Akumulator wykorzystuje ogniwa ATL, które zapewniają niezawodność przez co najmniej 4 lata."
-            },
-            {
-                "tag": "h2",
-                "content": "Ty doświadczasz, on wszystko uwiecznia, niezależnie od warunków i pory dnia."
-            },
-            {
-                "tag": "p",
-                "content": "Oukitel WP35, choć stworzony do pracy w trudnych warunkach, nie ma się czego wstydzić, jeśli chodzi o fotografię. Główny aparat ma aż 64 Mpix, a towarzyszy mu aparat 8 Mpix, który potrafi rejestrować obraz nawet w słabych warunkach oświetleniowych. Zestaw zamyka aparat 2 Mpix do zdjęć makro, co jest rzadkością w tym segmencie smartfonów. Ale to nie wszystko – Oukitel WP35 potrafi robić zdjęcia z użyciem noktowizji, co pozwala uchwycić to, co niewidoczne dla oka. Z przodu znajduje się aparat 32 Mpix, co z pewnością docenią miłośnicy selfie na szczytach gór."
-            },
-            {
-                "tag": "p",
-                "content": "Treści obejrzymy na dużym, bo aż 6,58-calowym wyświetlaczu FHD+, który zapewnia bardzo dobrą jakość obrazu podczas korzystania z urządzenia."
-            },
-            {
-                "tag": "p",
-                "content": "Za płynność działania odpowiada procesor MediaTek Dimensity 6100+, który jest jednocześnie bardzo energooszczędny. Towarzyszy mu 8 GB RAM z funkcją wirtualnego rozszerzenia w razie potrzeby, dzięki czemu nie ma mowy o zacięciach czy niestabilnym działaniu. Smartfon to urządzenie na długie lata, a mocny procesor gwarantuje, że czas nie odciśnie na nim szybko swojego piętna."
-            },
-            {
-                "tag": "p",
-                "content": "Nie zabrakło również najnowszych technologii łączności, w tym NFC, które umożliwia płatności zbliżeniowe. Telefon obsługuje dwie karty nanoSIM, z możliwością zastąpienia jednej z nich kartą pamięci o pojemności do 2 TB, co zwiększa możliwości rejestrowania wypraw. W urządzeniu znajdziemy także wsparcie dla eSIM i łączności 5G oraz najnowszy system Android."
-            },
-            {
-                "tag": "p",
-                "content": "Krótko mówiąc, to nowoczesny, elegancki smartfon, który jest odporny na wszelkie pomysły fanów adrenaliny oraz osób pracujących w wymagających warunkach."
-            },
-            {
-                "tag": "p",
-                "content": "Z tym urządzeniem będziecie mogli skupić się na doświadczeniach i zadaniach, które przed Wami stoją, bez obaw o rozładowaną baterię, brak pamięci czy uszkodzenia."
-            },
-            {
-                "tag": "p",
-                "content": "A po wszystkim, opłuczecie go pod wodą i wrzucicie do kieszeni marynarki."
-            },
-            {
-                "tag": "p",
-                "content": "Urządzenie możecie kupić u jednego z wybranych partnerów na stroniehttps://www.oukitel.pl/offroad-challenge/"
-            },
-            {
-                "tag": "h2",
-                "content": "Sprawdzian wytrzymałości modelu?"
-            },
-            {
-                "tag": "p",
-                "content": "Zespół Oukitel nie rzuca słów na wiatr, wytrzymałość swoich produktów będą testowali w trakcie zbliżającego się Rajdu Niepodległości w Ełku (8-10.11.2024). Marka została również sponsorem wydarzenia i przeznaczyła 12 pancernych produktów do wygrania dla najbardziej zdeterminowanych zespołów, które wezmą udział w rajdzie."
-            },
-            {
-                "tag": "p",
-                "content": "🚗💥A jeśli chcesz zdobądź swój pancerny smartphone już teraz i dołączyć do zespołu Oukitel w trakcie zbliżającego się Rajdu Niepodległości w Ełku, w dniach 8-10.11.2024, wejdź na stronęhttps://www.oukitel.pl/offroad-challenge/i weź udział w konkursie trwającym od 21 do 30 października 2024."
-            },
-            {
-                "tag": "p",
                 "content": "Dowiedz się, jak bezpiecznie i skutecznie wymienić cylinder CO2 SodaStream oraz dlaczego warto unikać nieautoryzowanych punktów napełniania."
             },
             {
@@ -1231,6 +1187,146 @@
             },
             {
                 "tag": "p",
+                "content": "Topowa aplikacja Żappka jest na rynku już od pięciu lat i niejeden raz zaskoczyła swoich użytkowników unikatowymi rozwiązaniami. Tym razem w nowej wersji, użytkownicy Żappki zyskają dostęp do oferty marek obecnych w Grupie Żabka jak: Żabka Jush, Maczfita, Dietly, czy Żabka Nano. Aplikacja ma ulepszony, intuicyjny interfejs i szereg nowych funkcji. Obecnie trwa pierwszy etap udostępnienia aplikacji, a użytkownicy w najbliższych tygodniach cyklicznie będą dostrzegać nowe rozwiązania Żappki. Dotychczas z aplikacji korzystało ponad 10 mln osób."
+            },
+            {
+                "tag": "h2",
+                "content": "Jeszcze bardziej Żappka"
+            },
+            {
+                "tag": "p",
+                "content": "Ulepszona wersja Żappki zawiera m.in. nowe funkcje umożliwiające korzystanie z usług spółek należących do Grupy Żabka."
+            },
+            {
+                "tag": "p",
+                "content": "Rozwój technologii to jeden z filarów długofalowej strategii Grupy Żabka. Dzięki synergii naszych marek w aplikacji Żappka, użytkownicy zyskają lepszy dostęp do naszej pełnej oferty, my z kolei możemy wykorzystać potencjał płynący z całej grupy"
+            },
+            {
+                "tag": "p",
+                "content": "W trakcie prac nad nową aplikacją przeprowadzono kompleksowe badania z udziałem realnych użytkowników oraz osób, które wcześniej nie miały z Żappką styczności. Wśród badanych znalazły się osoby niepełnoletnie, pełnoletnie i należące do grupy 50+. Dzięki temu nowa wersja aplikacji zyskała nowy design oraz funkcje, które sprawią, że korzystanie z niej będzie jeszcze bardziej intuicyjne."
+            },
+            {
+                "tag": "p",
+                "content": "Chcąc pozostawać liderem, wyznaczającym trendy w branży retail, zdecydowaliśmy o wyniesieniu Żappki na wyższy poziom. Spójna architektura nowej aplikacji będzie jeszcze bardziej intuicyjna i przez to przyjazna użytkownikom. Wraz z naszymi partnerami – wewnątrz Grupy Żabka i poza nią, stworzyliśmy ekosystem wspólnych korzyści dla użytkowników, a oni – jeszcze większą dostępność ciekawych ofert. Dziś oddajemy aplikację, która jest efektem wielomiesięcznych prac naszych zespołów, jednak nieustająco będziemy dodawać kolejne funkcje, tak by Żappka stała się towarzyszką naszych klientów podczas całych dni wypełnionych różnorodnymi aktywnościami"
+            },
+            {
+                "tag": "h2",
+                "content": "Ulepszona nawigacja i jeszcze więcej ofert"
+            },
+            {
+                "tag": "p",
+                "content": "Wśród najważniejszych zmian użytkownicy dostrzegą m.in. podział oferty Żabki oraz menu, gdzie znajdą np. produkty Prosto z Pieca. Podział zyskała sekcja Wszystko za żappsy – odtąd widoczna będzie osobno oferta sklepów Żabka oraz spółek należących do Grupy Żabka i partnerów. Nowością są także sekcje dedykowane cateringom dietetycznym oraz sekcja Żabki Jush, umożliwiająca zakupy online z dostawą."
+            },
+            {
+                "tag": "p",
+                "content": "Użytkownicy otrzymali także nowe możliwości w zakresie wykorzystywania żappsów, m.in. na usługi oferowane przez partnerów biznesowych Żabki, wśród których znajdują się między innymi Allegro, Multikino, Lime, czy Traficar. Żappsy czasowo będą mogły być również wymieniane na monety w aplikacji Allegro. Klienci zyskają także nowe opcje płatności przez Google Pay lub Apple Pay."
+            },
+            {
+                "tag": "p",
+                "content": "Uruchomienie nowej aplikacji wspiera kampania marketingowa promująca sposoby wykorzystania żappsów, w której udział wezmą influencerzy: Przemek Pro, Monika Kociołek i Czvjnik."
+            },
+            {
+                "tag": "p",
+                "content": "Nowa Żappka będzie udostępniana użytkownikom etapowo. Informacje o dostępnej aktualizacji dostępne będą w dotychczasowej wersji aplikacji."
+            },
+            {
+                "tag": "h2",
+                "content": "O grupie Żabka"
+            },
+            {
+                "tag": "p",
+                "content": "Grupa Żabka to kompleksowy ekosystem convenience, którego misją jest tworzenie wartości poprzez upraszczanie codziennego życia klientów. Grupa obsługuje rosnącą liczbę konsumentów szukających wygodnych rozwiązań, promując przy tym odpowiedzialne podejście wobec klientów, franczyzobiorców, dostawców oraz szeroko pojętego środowiska, w tym dbałość o zrównoważone korzystanie z produktów i opakowań."
+            },
+            {
+                "tag": "p",
+                "content": "Ekosystem Grupy Żabka obejmuje wiodącą w Polsce sieć sprzedaży detalicznej w formacie convenience liczącą ponad 10 500 sklepów działających na zasadzie franczyzy. Uzupełnia ją sieć bezobsługowych sklepów autonomicznych pod szyldem Żabka Nano, umożliwiających robienie zakupów przez całą dobę w dowolny dzień tygodnia. Grupa dysponuje również zaawansowaną, stale rozwijaną ofertą cyfrową. Należąca do niej marka Maczfit, powstała z myślą o osobach szukających zdrowej i jednocześnie wygodnej diety, dostarcza restauracyjnej jakości gotowe posiłki prosto do domu klienta. Platforma Dietly to z kolei wiodąca porównywarka dostawców cateringu dietetycznego. Działalność w zakresie internetowych zakupów spożywczych Grupa realizuje zaś za pośrednictwem marek Jush! i Delio. Ponadto Grupa Żabka niedawno rozpoczęła działalność na bardzo atrakcyjnym rynku rumuńskim poprzez przejęcie spółki DRIM."
+            },
+            {
+                "tag": "p",
+                "content": "Prężną działalność Spółki w Polsce umożliwia należycie doinwestowana infrastruktura logistyczna, obejmująca osiem centrów dystrybucyjnych, 19 obiektów typu cross-dock oraz sieć magazynów dark store i lokali dark kitchen, stanowiących zaplecze operacyjne oferty cyfrowej Grupy Żabka."
+            },
+            {
+                "tag": "p",
+                "content": "Do tej pory, gdy ktoś pytał mnie, jaki smartfon kupić, żeby był odporny na zniszczenia, miał dużą pojemność akumulatora i ciekawy design, odpowiadałem, że mówi o trzech różnych urządzeniach. Teraz mogę powiedzieć, żeby sprawdził Oukitel WP35, bo to urządzenie łączy wszystkie te cechy i ma w sobie jeszcze sporo niespodzianek."
+            },
+            {
+                "tag": "p",
+                "content": "Jeżeli kiedykolwiek interesowaliście się rynkiem pancernych smartfonów, to na pewno zauważyliście, że mają jedną cechę wspólną – wyglądają, jakby ktoś je wyrzeźbił siekierą. Do tego zazwyczaj są ciężkie i duże, co nie ułatwia użytkowania. Te cechy wynikały z chęci zapewnienia przez producentów jak największej wytrzymałości na trudne warunki, w jakich pracują użytkownicy tego typu smartfonów. Mówimy o użytkownikach, którzy telefon zabierają ze sobą na offroad, do pracy na wysokościach, ratownikach, wojsku czy fanach sportów ekstremalnych. Odnoszę wrażenie, że wszyscy pogodzili się już z ograniczeniami w tym obszarze i brakiem alternatyw. Tym milej byłem zaskoczony najnowszym telefonem Oukitel WP35, który jest pancerny, ale nie przypomina urządzenia do wbijania gwoździ. Chociaż awaryjnie może nim być, ale o tym opowiem za chwilę."
+            },
+            {
+                "tag": "p",
+                "content": "Prezentowany model jest smukły, elegancki, nie krzyczy, że jest pancerny, dlatego można go używać zarówno w trakcie ekstremalnych wypraw, jak i na co dzień, bez wzbudzania zainteresowania, np. podczas spotkań biznesowych. Design jest nowoczesny i na pierwszy rzut oka tylko ramki zdradzają, że to nie jest zwykły telefon. Z tyłu mamy przyjemną dla oka i dłoni fakturę, inspirowaną diamentami. Ponadto dostępny jest w trzech nietuzinkowych kolorach: butelkowej zieleni, opalizującym brązie i szarości."
+            },
+            {
+                "tag": "p",
+                "content": "Jego grubość to jedynie 14,9 mm, co w połączeniu z ogromną baterią 11 000 mAh stawia go na podium najcieńszych pancernych telefonów na świecie, oferując jednocześnie ergonomiczny design i wygodny uchwyt."
+            },
+            {
+                "tag": "p",
+                "content": "Co najlepsze, waży tylko 360 g, co jest świetnym wynikiem dla telefonu o tak dużej pojemności baterii. Spełnia również rygorystyczną normę militarną MIL-STD-810H, co oznacza, że telefon jest odporny na upadki na poziomie wojskowym, a to sprawia, że nie boi się praktycznie żadnych zderzeń."
+            },
+            {
+                "tag": "p",
+                "content": "Do tego dochodzą cywilne certyfikaty IP68/IP69K, które gwarantują działanie telefonu nawet po zanurzeniu w wodzie, a także odporność na kurz i piasek. Jeśli lubicie aktywności outdoorowe, docenicie te normy, ponieważ zapewniają, że możecie włożyć smartfon do kieszeni podczas np. przepraw offroad, wejść w błoto i nie martwić się o jego działanie."
+            },
+            {
+                "tag": "p",
+                "content": "Nie tylko hobbyści docenią wytrzymałość tego smartfona. Taka odporność przydaje się również w pracy, np. górnikom, ratownikom medycznym czy górskim, a także osobom pracującym w branży budowlanej i innym, którzy na co dzień funkcjonują w trudnych warunkach. Odpowiadając na specyfikę pracy użytkowników tego typu telefonów, producent zastosował fizyczne przyciski, które działają nawet w rękawicach ochronnych."
+            },
+            {
+                "tag": "p",
+                "content": "A skoro mówimy o trudnych warunkach, doskonale wiemy, że nie zawsze można podłączyć telefon do prądu, więc czas pracy urządzenia jest kluczowy. Oukitel WP35 posiada akumulator o pojemności aż 11 000 mAh, który wytrzymuje kilka dni z dala od ładowarki, bez ograniczania funkcjonalności. W razie potrzeby telefon naładujemy z mocą do 18 W. Akumulator wykorzystuje ogniwa ATL, które zapewniają niezawodność przez co najmniej 4 lata."
+            },
+            {
+                "tag": "h2",
+                "content": "Ty doświadczasz, on wszystko uwiecznia, niezależnie od warunków i pory dnia."
+            },
+            {
+                "tag": "p",
+                "content": "Oukitel WP35, choć stworzony do pracy w trudnych warunkach, nie ma się czego wstydzić, jeśli chodzi o fotografię. Główny aparat ma aż 64 Mpix, a towarzyszy mu aparat 8 Mpix, który potrafi rejestrować obraz nawet w słabych warunkach oświetleniowych. Zestaw zamyka aparat 2 Mpix do zdjęć makro, co jest rzadkością w tym segmencie smartfonów. Ale to nie wszystko – Oukitel WP35 potrafi robić zdjęcia z użyciem noktowizji, co pozwala uchwycić to, co niewidoczne dla oka. Z przodu znajduje się aparat 32 Mpix, co z pewnością docenią miłośnicy selfie na szczytach gór."
+            },
+            {
+                "tag": "p",
+                "content": "Treści obejrzymy na dużym, bo aż 6,58-calowym wyświetlaczu FHD+, który zapewnia bardzo dobrą jakość obrazu podczas korzystania z urządzenia."
+            },
+            {
+                "tag": "p",
+                "content": "Za płynność działania odpowiada procesor MediaTek Dimensity 6100+, który jest jednocześnie bardzo energooszczędny. Towarzyszy mu 8 GB RAM z funkcją wirtualnego rozszerzenia w razie potrzeby, dzięki czemu nie ma mowy o zacięciach czy niestabilnym działaniu. Smartfon to urządzenie na długie lata, a mocny procesor gwarantuje, że czas nie odciśnie na nim szybko swojego piętna."
+            },
+            {
+                "tag": "p",
+                "content": "Nie zabrakło również najnowszych technologii łączności, w tym NFC, które umożliwia płatności zbliżeniowe. Telefon obsługuje dwie karty nanoSIM, z możliwością zastąpienia jednej z nich kartą pamięci o pojemności do 2 TB, co zwiększa możliwości rejestrowania wypraw. W urządzeniu znajdziemy także wsparcie dla eSIM i łączności 5G oraz najnowszy system Android."
+            },
+            {
+                "tag": "p",
+                "content": "Krótko mówiąc, to nowoczesny, elegancki smartfon, który jest odporny na wszelkie pomysły fanów adrenaliny oraz osób pracujących w wymagających warunkach."
+            },
+            {
+                "tag": "p",
+                "content": "Z tym urządzeniem będziecie mogli skupić się na doświadczeniach i zadaniach, które przed Wami stoją, bez obaw o rozładowaną baterię, brak pamięci czy uszkodzenia."
+            },
+            {
+                "tag": "p",
+                "content": "A po wszystkim, opłuczecie go pod wodą i wrzucicie do kieszeni marynarki."
+            },
+            {
+                "tag": "p",
+                "content": "Urządzenie możecie kupić u jednego z wybranych partnerów na stroniehttps://www.oukitel.pl/offroad-challenge/"
+            },
+            {
+                "tag": "h2",
+                "content": "Sprawdzian wytrzymałości modelu?"
+            },
+            {
+                "tag": "p",
+                "content": "Zespół Oukitel nie rzuca słów na wiatr, wytrzymałość swoich produktów będą testowali w trakcie zbliżającego się Rajdu Niepodległości w Ełku (8-10.11.2024). Marka została również sponsorem wydarzenia i przeznaczyła 12 pancernych produktów do wygrania dla najbardziej zdeterminowanych zespołów, które wezmą udział w rajdzie."
+            },
+            {
+                "tag": "p",
+                "content": "🚗💥A jeśli chcesz zdobądź swój pancerny smartphone już teraz i dołączyć do zespołu Oukitel w trakcie zbliżającego się Rajdu Niepodległości w Ełku, w dniach 8-10.11.2024, wejdź na stronęhttps://www.oukitel.pl/offroad-challenge/i weź udział w konkursie trwającym od 21 do 30 października 2024."
+            },
+            {
+                "tag": "p",
                 "content": ""
             }
         ]
@@ -1267,60 +1363,84 @@
                 "content": ""
             },
             {
+                "tag": "p",
+                "content": "Co do zasady o splątaniu kwantowym mówimy, kiedy dwie cząstki łączą się ze sobą w taki sposób, że zmiana stanu jednej z nich powoduje natychmiastową zmianę drugiej, niezależnie od tego, czy znajdują się one obok siebie, czy na dwóch krańcach wszechświata. Albert Einstein mówił o tym tajemniczym zjawisku „upiorne oddziaływanie na odległość”."
+            },
+            {
+                "tag": "p",
+                "content": "Mimo tego, że splątanie kwantowe wymyka się intuicji (jak wiele aspektów fizyki kwantowej), to naukowcy wykorzystują je w swoich eksperymentach. Teraz zespół badaczy z Uniwersytetu Technicznego w Wiedniu postanowił wykorzystać symulacje komputerowe do zbadania, w jakim czasie zachodzi sam proces plątania kwantowego dwóch cząstek."
+            },
+            {
+                "tag": "p",
+                "content": "Czytaj także:Splątanie kwantowe na wyciągnięcie ręki. Zaprojektowane urządzenie jest niewyobrażalnie cienkie"
+            },
+            {
+                "tag": "strong",
+                "content": "Czytaj także:Splątanie kwantowe na wyciągnięcie ręki. Zaprojektowane urządzenie jest niewyobrażalnie cienkie"
+            },
+            {
+                "tag": "p",
+                "content": "W tym celu konieczne było opracowanie modelu tego, w jaki sposób impulsy laserowe uderzające w atomy, są w stanie zmieniać zachowanie krążących wokół jądra atomowego elektronów."
+            },
+            {
+                "tag": "p",
+                "content": "Jak sięokazuje, w ten sposób udało się poczynić duże kroki na drodze do zrozumienia fenomenu splątania kwantowego. Nie było to zadanie łatwe, bowiem zejście do poziomu pojedynczych atomów i elektronów wymaga od badaczy zejścia także do reżimu attosekund, czyli niewiarygodnie krótkich przedziałów czasu."
+            },
+            {
                 "tag": "h2",
-                "content": "Rewolucja nanokryształów, czyli jak telewizory staną się jaśniejsze, a panele słoneczne wydajniejsze"
+                "content": "Wystarczy tutaj dodać, że attosekunda to zaledwie jedna miliardowa część miliardowej części sekundy."
             },
             {
                 "tag": "p",
-                "content": "Naukowcy z Curtin University dokonali znaczącego przełomu w dziedzinie nanotechnologii, odkrywając metodę poprawy tego, jak cząsteczki przylegają do powierzchni nanokryształów. To odkrycie niesie obietnicę zwiększenia wydajności wielu technologii, wliczając w to zarówno jaśniejsze panele telewizorów, jak i wydajniejsze panele słoneczne, a nawet sprzęty do zaawansowanej diagnostyki medycznej. Kluczowym elementem tego postępu jest możliwość kontrolowania kształtu nanokryształów, a to szczególnie tych wykonanych z siarczku cynku, co otwiera drogę do optymalizacji ich interakcji z otaczającymi cząsteczkami."
+                "content": "To właśnie w tej skali możemy obserwować, jak impuls laserowy jest w stanie sprawić, że jeden elektron wyrywany jest z atomu, a inny pochłania energię i przeskakuje na wyższy poziom energetyczny. W takim przypadku oba elektrony stają się splątane kwantowo ze sobą. W efekcie stają się one swego rodzaju całością, ale składającą się z dwóch komponentów rozdzielonych przestrzennie. Analizując stan jednego, dowiadujemy się automatycznie jaki jest stan drugiego z nich."
             },
             {
                 "tag": "p",
-                "content": "Czytaj też:Sąsiad zamontował panele, a ty cierpisz. Fotowoltaiczny koszmar dopadł Polaków"
+                "content": "Czytaj także:Splątanie kwantowe ma niespodziewaną cechę. Zaskakujący związek potwierdziły ostatnie eksperymenty"
+            },
+            {
+                "tag": "strong",
+                "content": "Czytaj także:Splątanie kwantowe ma niespodziewaną cechę. Zaskakujący związek potwierdziły ostatnie eksperymenty"
+            },
+            {
+                "tag": "p",
+                "content": "Jeżeli to trudno sobie wyobrazić, to naukowcy mają w zanadrzu coś jeszcze ciekawszego. W toku badań udało się bowiem ustalić moment narodzin elektronu uciekającego z atomu w wyniku działania impulsu laserowego. Okazało się jednak, że nie jest to jakiś określony moment, bowiem ów elektron zasadniczo istnieje w różnych momentach jednocześnie. Inaczej mówiąc, czas narodzin elektronu nie jest znany. Mamy tutaj bowiem do czynienia z superpozycją różnych stanów, w których elektron opuścił atom jednocześnie wcześniej i później. Odbija się to jednak na elektronie pozostającym w atomie. Jeżeli jego energia jest wyższa, uciekający elektron opuścił atom wcześniej, jeżeli niższa — później."
+            },
+            {
+                "tag": "p",
+                "content": "Warto tutaj pamiętać, że jak na razie mamy do czynienia jedynie z symulacjami. Badacze jednak wskazują, że można je odtworzyć eksperymentalnie i wykonać pomiary, które owe symulacje potwierdzą. Taki właśnie jest plan na kolejne projekty badawcze."
+            },
+            {
+                "tag": "p",
+                "content": ""
+            },
+            {
+                "tag": "p",
+                "content": "Dostawca usług i hostingu internetowego GoDaddy informuje, że nowa infekcja szybko rozprzestrzenia się w implementacjach WordPressa. Powoduje uruchamianie spreparowanych wtyczek, które wyświetlają użytkownikom fałszywe wiadomości, mające na celu nakłonienie odwiedzających do pobrania i zainstalowania złośliwego oprogramowania. Oczywiście kryje się ono jako praktyczne narzędzie."
+            },
+            {
+                "tag": "h2",
+                "content": "Czy fałszywe wtyczki to jedyne zagrożenie dla WordPressa?"
+            },
+            {
+                "tag": "p",
+                "content": "Ponad 6000 stron opartych na WordPressie zostało wyposażonych w fałszywe wtyczki, które mogą pojawiać się również jako powiadomienia z Facebooka, Google Meet lub stron weryfikacyjnych Captcha. Zastosowany tu został system “ClearFake”, który istnieje co najmniej od 2023 roku, ale w nowej odmianie – o nazwie “ClickFix”. Pojawiła się dopiero teraz i rozprzestrzenia za pośrednictwem wtyczek. Mają takie nazwy, jak “Google SEO Enhancer” czy “Quick Cache Cleaner”, co może przyciągnąć każdego administratora strony, który próbuje zoptymalizować swoją witrynę pod kątem większego ruchu lub lepszej wydajności."
+            },
+            {
+                "tag": "p",
+                "content": "Ale niektóre infekcje pochodzą również ze skradzionych loginów administratora i zautomatyzowanych narzędzi instalacyjnych. Dlatego jeśli używasz WordPressa, upewnij się, że Twoje konta administratora używają silnych i unikalnych haseł, a także przejrzyj swoje wtyczki. Jeśli jesteś zwykłym użytkownikiem przeglądającym sieć, pamiętaj, aby uważać na fałszywe komunikaty o instalacji i przerażająco brzmiące ostrzeżenia – nigdy nie ufaj żadnym monitom o pobranie, które losowo pojawiają się podczas przeglądania."
+            },
+            {
+                "tag": "p",
+                "content": "Czytaj też:Microsoft potwierdza kolejny błąd powodujący niebieskie ekrany śmierci po aktualizacji 24H2"
             },
             {
                 "tag": "strong",
                 "content": "Czytaj też:"
             },
             {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
                 "tag": "p",
-                "content": "Tak się składa, że nanokryształy to wyjątkowe, a na dodatek niezwykle małe cząstki, które zazwyczaj mają kilka nanometrów i posiadają unikalne właściwości elektryczne, optyczne i chemiczne. Te cechy sprawiają, że są niezastąpione w wielu zastosowaniach, dzięki czemu ich ulepszenie może mieć szeroki wpływ na otaczającą nas rzeczywistość. Lepsze nanokryształy to bowiem wydajniejsze panele słoneczne w konwersji energii słonecznej na elektryczną czy nawet lepsze diody LED w zakresie jasności oraz wierności względem rzeczywistych barw. Tyczy się to również tych, które zostały wzięte na tapet przez naukowców, czyli nanokryształach siarczku cynku."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Jak wyciskać z paneli słonecznych jeszcze więcej prądu? SolarEdge pokazało inwerter idealny"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Kluczowym odkryciem w badaniach było to, jak kształt tych nanokryształów wpływa na przyłączanie się cząsteczek, zwanych ligandami, do ich powierzchni. Ligandy odgrywają w całym procesie kluczową rolę, ponieważ wpływają na to, jak nanokryształy działają w różnych środowiskach. W swoich badaniach zespół naukowców odkrył, że bardziej płaskie nanokryształy, znane jako nanopłytki, pozwalają ligandom na efektywniejsze przyłączanie się w porównaniu do innych kształtów, takich jak nanokropki czy nanopręty. Płaski kształt zwiększa zresztą sam w sobie powierzchnię dostępną do wiązania cząsteczek, a to z kolei poprawia poprawia interakcję nanokryształu z otoczeniem."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Sprawdzili, jak panele słoneczne wpływają na miasta. Takiego klimatycznego kosztu nikt się nie spodziewał"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Tak oto naukowcy odkryli sposób na zrewolucjonizowanie optoelektroniki, a więc grupy urządzeń, które albo wytwarzają światło, albo wykorzystują je do działania. Należą do nich diody LED (stosowane w oświetleniu domowym i ekranach telewizorów), ogniwa słoneczne (które przekształcają światło słoneczne w energię elektryczną), fotodetektory (używane w kamerach i czujnikach) oraz diody laserowe (wykorzystywane w komunikacji światłowodowej). Wszystkie te technologie wymagają możliwie najlepszej kontroli światła i energii elektrycznej, a nowe odkrycie może znacząco poprawić ich wydajność. W miarę jak naukowcy będą kontynuowaćbadanianad potencjałem nanokryształów i ich zastosowaniami, przyszłość optoelektroniki i produkcji energii będzie prezentowała się w coraz jaśniejszych barwach"
+                "content": "Nie wiadomo jeszcze, czy mamy do czynienia ze zorganizowaną kampanią, czy też tak się złożyło, że mamy do czynienia z szeregiem niezależnych grup hakerskich, które wprowadzają do internetu fałszywe wtyczki. W każdej sytuacji doradzamy zachowanie czujności."
             },
             {
                 "tag": "p",
@@ -1363,84 +1483,24 @@
                 "content": ""
             },
             {
-                "tag": "h2",
-                "content": "Technologia SG1 od WTB rewolucjonizuje opony do rowerów górskich, oferując niespotykaną trwałość i przyczepność"
-            },
-            {
                 "tag": "p",
-                "content": "WTB pokazało światu zupełnie nową technologię w segmencie opon rowerowych, która została zaprojektowana, aby sprostać rosnącym wymaganiom współczesnego kolarstwa górskiego, a w tym wyzwań związanych ze stromymi zjazdami z nawet najbardziej wymagających szlaków. Tak przynajmniej wyczytamy w ogłoszeniu, które podkreśla, że zmiana dotyczy bezpośrednio osnowy opony (jej szkieletu), która to w najnowszej iteracji została wyposażona w technologię Inner Peace+ (IP+). Ta ma znacznie zwiększyć ogólny poziom ochrony przed przebiciami, a na dodatek zapewnia jej doskonałą odporność na uderzenia o ostre przedmioty, takie jak skały czy korzenie."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Nawet nie wiedziałeś, że czekałeś na elektryczny rower Orbea Wild 2025"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Na papierze oznacza to, że osnowa SG1 to podstawa najbardziej wytrzymałych opon od WTB, jako że w tym modelu bieżnik jest chroniony na jej całej powierzchni. W praktyce ta osnowa jest nie tylko wytrzymała, ale i inteligentnie zaprojektowana, bo technologia Inner Peace+ wspiera ściany boczne i potraja wysokość zewnętrznej krawędzi obręczy, a to akurat pozwala rowerzystom obniżyć ciśnienie w oponach bez utraty stabilności podczas skoków czy ostrych zakrętów. Przekłada się to na większy komfort bez kompromisów w zakresie bezpieczeństwa i wydajności, a to nawet w trudnych warunkach typowych dla jazdy w stylu gravity i enduro."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Ten wyjątkowy rower elektryczny waży tyle, co Twój plecak – ale czy zdołasz udźwignąć jego cenę?"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Jednak WTB nie poprzestało jedynie na zwiększeniu trwałości swoich opon. Wraz z wprowadzeniem osnowy SG1, marka zaktualizowała również swoje stosowane do tej pory mieszanki gumowe Fast Rolling i High Grip, aby stworzyć oponę, która nie tylko wytrzyma dłużej, ale także zapewni lepszą przyczepność podczas jazdy, a to zwłaszcza w mokrych warunkach. Aby to osiągnąć, WTB zmieniło proporcje między gumą naturalną a syntetyczną, zwiększając udział krzemionki i zmniejszając zawartość sadzy. W rezultacie uzyskano mieszankę, która oferuje lepszą trakcję na śliskim terenie, jednocześnie wykazując większą odporność na zużycie."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Nowy typ rowerów wkroczył na polski rynek. Czy odważysz się sięgnąć po rewolucyjne e-bike?"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Wspomniane mieszanki są dostępne w wielu najpopularniejszych oponach WTB, a w tym w modelach Trail Boss, Vigilante, Judge i Verdict, dzięki czemu rowerzyści mogą wybrać oponę najlepiej dopasowaną do swojego stylu jazdy, korzystając jednocześnie z najnowszych osiągnięć technologii opon firmy. Wisienką na torcie jest ich opakowanie, które powstało w 100 procentach z materiałów pochodzących z recyklingu i bez użycia plastiku."
-            },
-            {
-                "tag": "p",
-                "content": ""
-            },
-            {
-                "tag": "p",
-                "content": "Można zrozumieć, że Windows 11 jest na milionach maszyn o różnych konfiguracjach, jednak opracowywaniem nowości zajmuje się sztab ludzi, a armia Insiderów bada wszystkie wydania preview. Dlatego takich sytuacji jak ta nie powinno być. Niestety, Microsoft udowadnia aż za często, że potrafi wypuścić nowości, które mają bardzo negatywny wpływ na system."
+                "content": "Apple Intelligence ma oficjalnie wejść w życie 28 października wraz z systemem iOS 18.1. Według najnowszego raportu “Power On”, autorstwa Marka Gurmana z Bloomberga, wewnętrzne badania w Apple wykazały, że obecna wersja ich sztucznej inteligencji pozostaje w tyle za liderami branży. Jednak Apple może mieć kilka sztuczek w rękawie, aby zrekompensować wszelkie niedociągnięcia."
             },
             {
                 "tag": "h2",
-                "content": "Jak jeszcze zawodzi 24H2?"
+                "content": "Apple Intelligence – będzie hit czy kit?"
             },
             {
                 "tag": "p",
-                "content": "Pierwszym problemem aktualizacji 24H2 było fałszywe pokazywanie ponad 8 GB nieusuwalnych danych,  potem problem sprawiała aplikacja Voicemeeter, zawiodła komenda skanowania, znikła historia schowka i pojawiło się wiele innych problemów. Teraz posiadacze laptopów Asus  napotykają błąd wywołujący błękitny ekran śmierci (BSOD, czyli Blue Screen of Death) po próbie zastosowania aktualizacji 24H2. Dlatego Microsoft przestał oferować aktualizację dla niektórych modeli komputerów ASUS."
+                "content": "Według wspomnianego raportu, ChatGPT jest o około 25% dokładniejszy i jest w stanie odpowiedzieć na około 30% więcej zapytań w porównaniu z modelem Apple’a. Niektórzy w samym Apple uważają, że ich generatywna technologia AI – przynajmniej na razie – jest o ponad dwa lata w tyle za liderami branży. Ale zauważmy, że producent często pozwala innym się wyprzedzić choćby po to, aby nie popełniać błędów poprzedników i wprowadzać rozwiązania działające bez przykrych niespodzianek."
             },
             {
                 "tag": "p",
-                "content": "Dlaczego tak się dzieje? Powodem są problemy z oprogramowaniem układowym w modelach laptopów X415KA i X515KA . Podczas próby zainstalowania aktualizacji na dowolnym z tych laptopów pojawia się błąd BSOD, uniemożliwiający systemowi Windows zastosowanie aktualizacji. Ale nie ogranicza się to wyłącznie do dwóch modeli Asusa – pojawiają się doniesienia o podobnej sytuacji na maszynach Lenovo. W przypadku urządzeń Asus ich producent wprowadzi odpowiednią poprawkę, po której będzie można ponownie instalować aktualizację 24H2."
+                "content": "Tak działo się już wiele razy, a przykładów jest sporo – choćby Apple Watch. Co zatem zaoferuje Apple Intelligence? Dwuletnie opóźnienie w dynamicznie rozwijającej się dziedzinie, jaką jest generatywna sztuczna inteligencja, może niepokoić. Kiedy Apple Intelligence zostanie wprowadzone, konkurencja będzie już krok-dwa przed nią. A w tym wyścigu ciężko nadgonić rywali."
             },
             {
                 "tag": "p",
-                "content": "Czytaj też:W Windows 11 24H2 występuje kolejny problem. Na szczęście nie u każdego"
+                "content": "Czytaj też:Apple iPhone 16 – ni pies, ni wydra, coś na kształt świdra"
             },
             {
                 "tag": "strong",
@@ -1448,19 +1508,15 @@
             },
             {
                 "tag": "p",
-                "content": "Podsumowując: po siedmiu potwierdzonych zgłoszeniach problemów z wieloma starymi aplikacjami i sprzętem, pojawiły się te trzy nowe, zwiększając ogólną liczbę do dziesięciu. Kłopoty mogą pojawić się również u osób mających zainstalowane aplikacje Intel Sound i Easy Anti-Cheat."
+                "content": "Dobra wiadomość dla jest taka, że Apple ​​ma kilka potężnych zalet, które mogą pomóc mu szybko nadrobić straty – nawet pomimo późnego startu. Producent ma cenioną markę oraz niemal nieograniczone zasoby, dlatego możliwe, że w pewnym momencie albo rozwinie samodzielnie SI, albo zatrudni do tego firmę specjalizującą się na tym obszarze -może ją nawet wykupić."
             },
             {
                 "tag": "p",
-                "content": "Niezależnie od tego, czy się z nich korzysta, może dojść do przykrej sytuacji podczas korzystania z aparatu po zainstalowaniu aktualizacji Windows 11 24H2. Sama aktualizacja instaluje się bez problemu, ale jeśli użytkownik uruchomi aplikację Aparat lub użyje jakiejkolwiek formy uwierzytelniania twarzy, takiej jak Windows Hello, aplikacje/system zawieszają się. Problem pojawia się również w niektórych aplikacjach do skanowania twarzy innych firm."
+                "content": "Ponadto Apple może wykorzystać swoją ogromną globalną bazę instalacji – obejmującą ponad miliard aktywnych urządzeń – aby szybko wdrażać funkcje i usługi SI na niezrównaną skalę. Podobno plan zakłada uczynienie Apple Intelligence podstawową warstwą w całym ekosystemie Apple do 2026 roku. Ma być zintegrowana ze wszystkim, od iPhone’ów i iPadów zaczynając, na komputerach Mac i Apple TV kończąc."
             },
             {
                 "tag": "p",
-                "content": "Microsoft zastosował blokadę zgodności dla urządzeń z obsługą rozpoznawania twarzy. Ale jeśli zainstalowałeś już aktualizację Windows 11 24H2 i napotykasz ten problem, powrót do 23H2 jest rozsądnym wyborem."
-            },
-            {
-                "tag": "p",
-                "content": ""
+                "content": "Biorąc pod uwagę tak szerokie wdrożenie, istnieje duże prawdopodobieństwo, że użytkownicy wybiorą sztuczną inteligencję firmy Apple zamiast innych chatbotów, ponieważ będzie ona płynnie zintegrowana i gotowa do działania na wszystkich ich urządzeniach. Oczywiście, na razie to wszystko spekulacje. Zobaczymy, jak potoczą się sprawy, gdy rozpocznie się globalne wdrożenie Apple Intelligence."
             },
             {
                 "tag": "p",
@@ -1848,60 +1904,84 @@
                 "content": ""
             },
             {
+                "tag": "p",
+                "content": "Co do zasady o splątaniu kwantowym mówimy, kiedy dwie cząstki łączą się ze sobą w taki sposób, że zmiana stanu jednej z nich powoduje natychmiastową zmianę drugiej, niezależnie od tego, czy znajdują się one obok siebie, czy na dwóch krańcach wszechświata. Albert Einstein mówił o tym tajemniczym zjawisku „upiorne oddziaływanie na odległość”."
+            },
+            {
+                "tag": "p",
+                "content": "Mimo tego, że splątanie kwantowe wymyka się intuicji (jak wiele aspektów fizyki kwantowej), to naukowcy wykorzystują je w swoich eksperymentach. Teraz zespół badaczy z Uniwersytetu Technicznego w Wiedniu postanowił wykorzystać symulacje komputerowe do zbadania, w jakim czasie zachodzi sam proces plątania kwantowego dwóch cząstek."
+            },
+            {
+                "tag": "p",
+                "content": "Czytaj także:Splątanie kwantowe na wyciągnięcie ręki. Zaprojektowane urządzenie jest niewyobrażalnie cienkie"
+            },
+            {
+                "tag": "strong",
+                "content": "Czytaj także:Splątanie kwantowe na wyciągnięcie ręki. Zaprojektowane urządzenie jest niewyobrażalnie cienkie"
+            },
+            {
+                "tag": "p",
+                "content": "W tym celu konieczne było opracowanie modelu tego, w jaki sposób impulsy laserowe uderzające w atomy, są w stanie zmieniać zachowanie krążących wokół jądra atomowego elektronów."
+            },
+            {
+                "tag": "p",
+                "content": "Jak sięokazuje, w ten sposób udało się poczynić duże kroki na drodze do zrozumienia fenomenu splątania kwantowego. Nie było to zadanie łatwe, bowiem zejście do poziomu pojedynczych atomów i elektronów wymaga od badaczy zejścia także do reżimu attosekund, czyli niewiarygodnie krótkich przedziałów czasu."
+            },
+            {
                 "tag": "h2",
-                "content": "Rewolucja nanokryształów, czyli jak telewizory staną się jaśniejsze, a panele słoneczne wydajniejsze"
+                "content": "Wystarczy tutaj dodać, że attosekunda to zaledwie jedna miliardowa część miliardowej części sekundy."
             },
             {
                 "tag": "p",
-                "content": "Naukowcy z Curtin University dokonali znaczącego przełomu w dziedzinie nanotechnologii, odkrywając metodę poprawy tego, jak cząsteczki przylegają do powierzchni nanokryształów. To odkrycie niesie obietnicę zwiększenia wydajności wielu technologii, wliczając w to zarówno jaśniejsze panele telewizorów, jak i wydajniejsze panele słoneczne, a nawet sprzęty do zaawansowanej diagnostyki medycznej. Kluczowym elementem tego postępu jest możliwość kontrolowania kształtu nanokryształów, a to szczególnie tych wykonanych z siarczku cynku, co otwiera drogę do optymalizacji ich interakcji z otaczającymi cząsteczkami."
+                "content": "To właśnie w tej skali możemy obserwować, jak impuls laserowy jest w stanie sprawić, że jeden elektron wyrywany jest z atomu, a inny pochłania energię i przeskakuje na wyższy poziom energetyczny. W takim przypadku oba elektrony stają się splątane kwantowo ze sobą. W efekcie stają się one swego rodzaju całością, ale składającą się z dwóch komponentów rozdzielonych przestrzennie. Analizując stan jednego, dowiadujemy się automatycznie jaki jest stan drugiego z nich."
             },
             {
                 "tag": "p",
-                "content": "Czytaj też:Sąsiad zamontował panele, a ty cierpisz. Fotowoltaiczny koszmar dopadł Polaków"
+                "content": "Czytaj także:Splątanie kwantowe ma niespodziewaną cechę. Zaskakujący związek potwierdziły ostatnie eksperymenty"
+            },
+            {
+                "tag": "strong",
+                "content": "Czytaj także:Splątanie kwantowe ma niespodziewaną cechę. Zaskakujący związek potwierdziły ostatnie eksperymenty"
+            },
+            {
+                "tag": "p",
+                "content": "Jeżeli to trudno sobie wyobrazić, to naukowcy mają w zanadrzu coś jeszcze ciekawszego. W toku badań udało się bowiem ustalić moment narodzin elektronu uciekającego z atomu w wyniku działania impulsu laserowego. Okazało się jednak, że nie jest to jakiś określony moment, bowiem ów elektron zasadniczo istnieje w różnych momentach jednocześnie. Inaczej mówiąc, czas narodzin elektronu nie jest znany. Mamy tutaj bowiem do czynienia z superpozycją różnych stanów, w których elektron opuścił atom jednocześnie wcześniej i później. Odbija się to jednak na elektronie pozostającym w atomie. Jeżeli jego energia jest wyższa, uciekający elektron opuścił atom wcześniej, jeżeli niższa — później."
+            },
+            {
+                "tag": "p",
+                "content": "Warto tutaj pamiętać, że jak na razie mamy do czynienia jedynie z symulacjami. Badacze jednak wskazują, że można je odtworzyć eksperymentalnie i wykonać pomiary, które owe symulacje potwierdzą. Taki właśnie jest plan na kolejne projekty badawcze."
+            },
+            {
+                "tag": "p",
+                "content": ""
+            },
+            {
+                "tag": "p",
+                "content": "Dostawca usług i hostingu internetowego GoDaddy informuje, że nowa infekcja szybko rozprzestrzenia się w implementacjach WordPressa. Powoduje uruchamianie spreparowanych wtyczek, które wyświetlają użytkownikom fałszywe wiadomości, mające na celu nakłonienie odwiedzających do pobrania i zainstalowania złośliwego oprogramowania. Oczywiście kryje się ono jako praktyczne narzędzie."
+            },
+            {
+                "tag": "h2",
+                "content": "Czy fałszywe wtyczki to jedyne zagrożenie dla WordPressa?"
+            },
+            {
+                "tag": "p",
+                "content": "Ponad 6000 stron opartych na WordPressie zostało wyposażonych w fałszywe wtyczki, które mogą pojawiać się również jako powiadomienia z Facebooka, Google Meet lub stron weryfikacyjnych Captcha. Zastosowany tu został system “ClearFake”, który istnieje co najmniej od 2023 roku, ale w nowej odmianie – o nazwie “ClickFix”. Pojawiła się dopiero teraz i rozprzestrzenia za pośrednictwem wtyczek. Mają takie nazwy, jak “Google SEO Enhancer” czy “Quick Cache Cleaner”, co może przyciągnąć każdego administratora strony, który próbuje zoptymalizować swoją witrynę pod kątem większego ruchu lub lepszej wydajności."
+            },
+            {
+                "tag": "p",
+                "content": "Ale niektóre infekcje pochodzą również ze skradzionych loginów administratora i zautomatyzowanych narzędzi instalacyjnych. Dlatego jeśli używasz WordPressa, upewnij się, że Twoje konta administratora używają silnych i unikalnych haseł, a także przejrzyj swoje wtyczki. Jeśli jesteś zwykłym użytkownikiem przeglądającym sieć, pamiętaj, aby uważać na fałszywe komunikaty o instalacji i przerażająco brzmiące ostrzeżenia – nigdy nie ufaj żadnym monitom o pobranie, które losowo pojawiają się podczas przeglądania."
+            },
+            {
+                "tag": "p",
+                "content": "Czytaj też:Microsoft potwierdza kolejny błąd powodujący niebieskie ekrany śmierci po aktualizacji 24H2"
             },
             {
                 "tag": "strong",
                 "content": "Czytaj też:"
             },
             {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
                 "tag": "p",
-                "content": "Tak się składa, że nanokryształy to wyjątkowe, a na dodatek niezwykle małe cząstki, które zazwyczaj mają kilka nanometrów i posiadają unikalne właściwości elektryczne, optyczne i chemiczne. Te cechy sprawiają, że są niezastąpione w wielu zastosowaniach, dzięki czemu ich ulepszenie może mieć szeroki wpływ na otaczającą nas rzeczywistość. Lepsze nanokryształy to bowiem wydajniejsze panele słoneczne w konwersji energii słonecznej na elektryczną czy nawet lepsze diody LED w zakresie jasności oraz wierności względem rzeczywistych barw. Tyczy się to również tych, które zostały wzięte na tapet przez naukowców, czyli nanokryształach siarczku cynku."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Jak wyciskać z paneli słonecznych jeszcze więcej prądu? SolarEdge pokazało inwerter idealny"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Kluczowym odkryciem w badaniach było to, jak kształt tych nanokryształów wpływa na przyłączanie się cząsteczek, zwanych ligandami, do ich powierzchni. Ligandy odgrywają w całym procesie kluczową rolę, ponieważ wpływają na to, jak nanokryształy działają w różnych środowiskach. W swoich badaniach zespół naukowców odkrył, że bardziej płaskie nanokryształy, znane jako nanopłytki, pozwalają ligandom na efektywniejsze przyłączanie się w porównaniu do innych kształtów, takich jak nanokropki czy nanopręty. Płaski kształt zwiększa zresztą sam w sobie powierzchnię dostępną do wiązania cząsteczek, a to z kolei poprawia poprawia interakcję nanokryształu z otoczeniem."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Sprawdzili, jak panele słoneczne wpływają na miasta. Takiego klimatycznego kosztu nikt się nie spodziewał"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Tak oto naukowcy odkryli sposób na zrewolucjonizowanie optoelektroniki, a więc grupy urządzeń, które albo wytwarzają światło, albo wykorzystują je do działania. Należą do nich diody LED (stosowane w oświetleniu domowym i ekranach telewizorów), ogniwa słoneczne (które przekształcają światło słoneczne w energię elektryczną), fotodetektory (używane w kamerach i czujnikach) oraz diody laserowe (wykorzystywane w komunikacji światłowodowej). Wszystkie te technologie wymagają możliwie najlepszej kontroli światła i energii elektrycznej, a nowe odkrycie może znacząco poprawić ich wydajność. W miarę jak naukowcy będą kontynuowaćbadanianad potencjałem nanokryształów i ich zastosowaniami, przyszłość optoelektroniki i produkcji energii będzie prezentowała się w coraz jaśniejszych barwach"
+                "content": "Nie wiadomo jeszcze, czy mamy do czynienia ze zorganizowaną kampanią, czy też tak się złożyło, że mamy do czynienia z szeregiem niezależnych grup hakerskich, które wprowadzają do internetu fałszywe wtyczki. W każdej sytuacji doradzamy zachowanie czujności."
             },
             {
                 "tag": "p",
@@ -1944,84 +2024,24 @@
                 "content": ""
             },
             {
-                "tag": "h2",
-                "content": "Technologia SG1 od WTB rewolucjonizuje opony do rowerów górskich, oferując niespotykaną trwałość i przyczepność"
-            },
-            {
                 "tag": "p",
-                "content": "WTB pokazało światu zupełnie nową technologię w segmencie opon rowerowych, która została zaprojektowana, aby sprostać rosnącym wymaganiom współczesnego kolarstwa górskiego, a w tym wyzwań związanych ze stromymi zjazdami z nawet najbardziej wymagających szlaków. Tak przynajmniej wyczytamy w ogłoszeniu, które podkreśla, że zmiana dotyczy bezpośrednio osnowy opony (jej szkieletu), która to w najnowszej iteracji została wyposażona w technologię Inner Peace+ (IP+). Ta ma znacznie zwiększyć ogólny poziom ochrony przed przebiciami, a na dodatek zapewnia jej doskonałą odporność na uderzenia o ostre przedmioty, takie jak skały czy korzenie."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Nawet nie wiedziałeś, że czekałeś na elektryczny rower Orbea Wild 2025"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Na papierze oznacza to, że osnowa SG1 to podstawa najbardziej wytrzymałych opon od WTB, jako że w tym modelu bieżnik jest chroniony na jej całej powierzchni. W praktyce ta osnowa jest nie tylko wytrzymała, ale i inteligentnie zaprojektowana, bo technologia Inner Peace+ wspiera ściany boczne i potraja wysokość zewnętrznej krawędzi obręczy, a to akurat pozwala rowerzystom obniżyć ciśnienie w oponach bez utraty stabilności podczas skoków czy ostrych zakrętów. Przekłada się to na większy komfort bez kompromisów w zakresie bezpieczeństwa i wydajności, a to nawet w trudnych warunkach typowych dla jazdy w stylu gravity i enduro."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Ten wyjątkowy rower elektryczny waży tyle, co Twój plecak – ale czy zdołasz udźwignąć jego cenę?"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Jednak WTB nie poprzestało jedynie na zwiększeniu trwałości swoich opon. Wraz z wprowadzeniem osnowy SG1, marka zaktualizowała również swoje stosowane do tej pory mieszanki gumowe Fast Rolling i High Grip, aby stworzyć oponę, która nie tylko wytrzyma dłużej, ale także zapewni lepszą przyczepność podczas jazdy, a to zwłaszcza w mokrych warunkach. Aby to osiągnąć, WTB zmieniło proporcje między gumą naturalną a syntetyczną, zwiększając udział krzemionki i zmniejszając zawartość sadzy. W rezultacie uzyskano mieszankę, która oferuje lepszą trakcję na śliskim terenie, jednocześnie wykazując większą odporność na zużycie."
-            },
-            {
-                "tag": "p",
-                "content": "Czytaj też:Nowy typ rowerów wkroczył na polski rynek. Czy odważysz się sięgnąć po rewolucyjne e-bike?"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "strong",
-                "content": "Czytaj też:"
-            },
-            {
-                "tag": "p",
-                "content": "Wspomniane mieszanki są dostępne w wielu najpopularniejszych oponach WTB, a w tym w modelach Trail Boss, Vigilante, Judge i Verdict, dzięki czemu rowerzyści mogą wybrać oponę najlepiej dopasowaną do swojego stylu jazdy, korzystając jednocześnie z najnowszych osiągnięć technologii opon firmy. Wisienką na torcie jest ich opakowanie, które powstało w 100 procentach z materiałów pochodzących z recyklingu i bez użycia plastiku."
-            },
-            {
-                "tag": "p",
-                "content": ""
-            },
-            {
-                "tag": "p",
-                "content": "Można zrozumieć, że Windows 11 jest na milionach maszyn o różnych konfiguracjach, jednak opracowywaniem nowości zajmuje się sztab ludzi, a armia Insiderów bada wszystkie wydania preview. Dlatego takich sytuacji jak ta nie powinno być. Niestety, Microsoft udowadnia aż za często, że potrafi wypuścić nowości, które mają bardzo negatywny wpływ na system."
+                "content": "Apple Intelligence ma oficjalnie wejść w życie 28 października wraz z systemem iOS 18.1. Według najnowszego raportu “Power On”, autorstwa Marka Gurmana z Bloomberga, wewnętrzne badania w Apple wykazały, że obecna wersja ich sztucznej inteligencji pozostaje w tyle za liderami branży. Jednak Apple może mieć kilka sztuczek w rękawie, aby zrekompensować wszelkie niedociągnięcia."
             },
             {
                 "tag": "h2",
-                "content": "Jak jeszcze zawodzi 24H2?"
+                "content": "Apple Intelligence – będzie hit czy kit?"
             },
             {
                 "tag": "p",
-                "content": "Pierwszym problemem aktualizacji 24H2 było fałszywe pokazywanie ponad 8 GB nieusuwalnych danych,  potem problem sprawiała aplikacja Voicemeeter, zawiodła komenda skanowania, znikła historia schowka i pojawiło się wiele innych problemów. Teraz posiadacze laptopów Asus  napotykają błąd wywołujący błękitny ekran śmierci (BSOD, czyli Blue Screen of Death) po próbie zastosowania aktualizacji 24H2. Dlatego Microsoft przestał oferować aktualizację dla niektórych modeli komputerów ASUS."
+                "content": "Według wspomnianego raportu, ChatGPT jest o około 25% dokładniejszy i jest w stanie odpowiedzieć na około 30% więcej zapytań w porównaniu z modelem Apple’a. Niektórzy w samym Apple uważają, że ich generatywna technologia AI – przynajmniej na razie – jest o ponad dwa lata w tyle za liderami branży. Ale zauważmy, że producent często pozwala innym się wyprzedzić choćby po to, aby nie popełniać błędów poprzedników i wprowadzać rozwiązania działające bez przykrych niespodzianek."
             },
             {
                 "tag": "p",
-                "content": "Dlaczego tak się dzieje? Powodem są problemy z oprogramowaniem układowym w modelach laptopów X415KA i X515KA . Podczas próby zainstalowania aktualizacji na dowolnym z tych laptopów pojawia się błąd BSOD, uniemożliwiający systemowi Windows zastosowanie aktualizacji. Ale nie ogranicza się to wyłącznie do dwóch modeli Asusa – pojawiają się doniesienia o podobnej sytuacji na maszynach Lenovo. W przypadku urządzeń Asus ich producent wprowadzi odpowiednią poprawkę, po której będzie można ponownie instalować aktualizację 24H2."
+                "content": "Tak działo się już wiele razy, a przykładów jest sporo – choćby Apple Watch. Co zatem zaoferuje Apple Intelligence? Dwuletnie opóźnienie w dynamicznie rozwijającej się dziedzinie, jaką jest generatywna sztuczna inteligencja, może niepokoić. Kiedy Apple Intelligence zostanie wprowadzone, konkurencja będzie już krok-dwa przed nią. A w tym wyścigu ciężko nadgonić rywali."
             },
             {
                 "tag": "p",
-                "content": "Czytaj też:W Windows 11 24H2 występuje kolejny problem. Na szczęście nie u każdego"
+                "content": "Czytaj też:Apple iPhone 16 – ni pies, ni wydra, coś na kształt świdra"
             },
             {
                 "tag": "strong",
@@ -2029,19 +2049,15 @@
             },
             {
                 "tag": "p",
-                "content": "Podsumowując: po siedmiu potwierdzonych zgłoszeniach problemów z wieloma starymi aplikacjami i sprzętem, pojawiły się te trzy nowe, zwiększając ogólną liczbę do dziesięciu. Kłopoty mogą pojawić się również u osób mających zainstalowane aplikacje Intel Sound i Easy Anti-Cheat."
+                "content": "Dobra wiadomość dla jest taka, że Apple ​​ma kilka potężnych zalet, które mogą pomóc mu szybko nadrobić straty – nawet pomimo późnego startu. Producent ma cenioną markę oraz niemal nieograniczone zasoby, dlatego możliwe, że w pewnym momencie albo rozwinie samodzielnie SI, albo zatrudni do tego firmę specjalizującą się na tym obszarze -może ją nawet wykupić."
             },
             {
                 "tag": "p",
-                "content": "Niezależnie od tego, czy się z nich korzysta, może dojść do przykrej sytuacji podczas korzystania z aparatu po zainstalowaniu aktualizacji Windows 11 24H2. Sama aktualizacja instaluje się bez problemu, ale jeśli użytkownik uruchomi aplikację Aparat lub użyje jakiejkolwiek formy uwierzytelniania twarzy, takiej jak Windows Hello, aplikacje/system zawieszają się. Problem pojawia się również w niektórych aplikacjach do skanowania twarzy innych firm."
+                "content": "Ponadto Apple może wykorzystać swoją ogromną globalną bazę instalacji – obejmującą ponad miliard aktywnych urządzeń – aby szybko wdrażać funkcje i usługi SI na niezrównaną skalę. Podobno plan zakłada uczynienie Apple Intelligence podstawową warstwą w całym ekosystemie Apple do 2026 roku. Ma być zintegrowana ze wszystkim, od iPhone’ów i iPadów zaczynając, na komputerach Mac i Apple TV kończąc."
             },
             {
                 "tag": "p",
-                "content": "Microsoft zastosował blokadę zgodności dla urządzeń z obsługą rozpoznawania twarzy. Ale jeśli zainstalowałeś już aktualizację Windows 11 24H2 i napotykasz ten problem, powrót do 23H2 jest rozsądnym wyborem."
-            },
-            {
-                "tag": "p",
-                "content": ""
+                "content": "Biorąc pod uwagę tak szerokie wdrożenie, istnieje duże prawdopodobieństwo, że użytkownicy wybiorą sztuczną inteligencję firmy Apple zamiast innych chatbotów, ponieważ będzie ona płynnie zintegrowana i gotowa do działania na wszystkich ich urządzeniach. Oczywiście, na razie to wszystko spekulacje. Zobaczymy, jak potoczą się sprawy, gdy rozpocznie się globalne wdrożenie Apple Intelligence."
             },
             {
                 "tag": "p",
@@ -2450,7 +2466,7 @@
             },
             {
                 "tag": "p",
-                "content": "PLAYLISTA: A PAMIĘTASZ, JAK… RAPSY Z 80’S, 90’S, 00’S"
+                "content": "PLAYLISTA: LOVE NOTES"
             },
             {
                 "tag": "p",
@@ -2458,7 +2474,7 @@
             },
             {
                 "tag": "p",
-                "content": "PLAYLISTA: A PAMIĘTASZ, JAK… RAPSY Z 80’S, 90’S, 00’S"
+                "content": "PLAYLISTA: LOVE NOTES"
             },
             {
                 "tag": "p",
@@ -2466,7 +2482,7 @@
             },
             {
                 "tag": "p",
-                "content": "PLAYLISTA: A PAMIĘTASZ, JAK… RAPSY Z 80’S, 90’S, 00’S"
+                "content": "PLAYLISTA: LOVE NOTES"
             },
             {
                 "tag": "p",
@@ -2474,11 +2490,11 @@
             },
             {
                 "tag": "p",
-                "content": "PLAYLISTA: A PAMIĘTASZ, JAK… RAPSY Z 80’S, 90’S, 00’S"
+                "content": "PLAYLISTA: LOVE NOTES"
             },
             {
                 "tag": "p",
-                "content": "15:00 - 17:00"
+                "content": "18:00 - 21:00"
             },
             {
                 "tag": "p",
@@ -2815,7 +2831,7 @@
             },
             {
                 "tag": "p",
-                "content": "PLAYLISTA: A PAMIĘTASZ, JAK… RAPSY Z 80’S, 90’S, 00’S"
+                "content": "PLAYLISTA: LOVE NOTES"
             },
             {
                 "tag": "p",
@@ -2823,7 +2839,7 @@
             },
             {
                 "tag": "p",
-                "content": "PLAYLISTA: A PAMIĘTASZ, JAK… RAPSY Z 80’S, 90’S, 00’S"
+                "content": "PLAYLISTA: LOVE NOTES"
             },
             {
                 "tag": "p",
@@ -2831,7 +2847,7 @@
             },
             {
                 "tag": "p",
-                "content": "PLAYLISTA: A PAMIĘTASZ, JAK… RAPSY Z 80’S, 90’S, 00’S"
+                "content": "PLAYLISTA: LOVE NOTES"
             },
             {
                 "tag": "p",
@@ -2839,11 +2855,11 @@
             },
             {
                 "tag": "p",
-                "content": "PLAYLISTA: A PAMIĘTASZ, JAK… RAPSY Z 80’S, 90’S, 00’S"
+                "content": "PLAYLISTA: LOVE NOTES"
             },
             {
                 "tag": "p",
-                "content": "15:00 - 17:00"
+                "content": "18:00 - 21:00"
             },
             {
                 "tag": "p",
